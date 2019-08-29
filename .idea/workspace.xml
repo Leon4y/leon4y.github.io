@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="1648" column="42" selection-start-line="1648" selection-start-column="42" selection-end-line="1648" selection-end-column="42" />
+            <state relative-caret-position="441">
+              <caret line="1390" column="16" selection-start-line="1390" selection-start-column="16" selection-end-line="1390" selection-end-column="16" />
               <folding>
                 <element signature="e#4989#5009#0" expanded="true" />
                 <element signature="e#226991#227069#0" expanded="true" />
@@ -49,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="3963" column="1" selection-start-line="3963" selection-start-column="1" selection-end-line="3963" selection-end-column="1" />
+            <state relative-caret-position="446">
+              <caret line="3949" lean-forward="true" selection-start-line="3949" selection-end-line="3949" />
             </state>
           </provider>
         </entry>
@@ -64,6 +64,7 @@
     <findStrings>
       <find>css</find>
       <find>выберите</find>
+      <find>franchize/</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,6 +111,27 @@
             <path>
               <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="franchize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="franchize" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -124,6 +146,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pedant\Documents\GitHub\leon4y.github.io\assets\template\franchize\img" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
-      <workItem from="1567080232768" duration="782000" />
+      <workItem from="1567080232768" duration="1202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="782000" />
+    <option name="totallyTimeSpent" value="1202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -187,21 +214,21 @@
     <entry file="file://$PROJECT_DIR$/files/slick.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="3949" lean-forward="true" selection-start-line="3949" selection-end-line="3949" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="1648" column="42" selection-start-line="1648" selection-start-column="42" selection-end-line="1648" selection-end-column="42" />
+        <state relative-caret-position="441">
+          <caret line="1390" column="16" selection-start-line="1390" selection-start-column="16" selection-end-line="1390" selection-end-column="16" />
           <folding>
             <element signature="e#4989#5009#0" expanded="true" />
             <element signature="e#226991#227069#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="3963" column="1" selection-start-line="3963" selection-start-column="1" selection-end-line="3963" selection-end-column="1" />
         </state>
       </provider>
     </entry>
