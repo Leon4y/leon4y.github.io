@@ -23,7 +23,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="8" />
+          <entry key="CSS" value="22" />
           <entry key="HTML" value="2" />
         </counts>
       </usages-collector>
@@ -53,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="783">
-              <caret line="3906" column="1" selection-start-line="3906" selection-start-column="1" selection-end-line="3906" selection-end-column="1" />
+              <caret line="3963" column="1" selection-start-line="3963" selection-start-column="1" selection-end-line="3963" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -147,12 +147,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
-      <workItem from="1567080232768" duration="397000" />
+      <workItem from="1567080232768" duration="782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="397000" />
+    <option name="totallyTimeSpent" value="782000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -201,7 +201,7 @@
     <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="783">
-          <caret line="3906" column="1" selection-start-line="3906" selection-start-column="1" selection-end-line="3906" selection-end-column="1" />
+          <caret line="3963" column="1" selection-start-line="3963" selection-start-column="1" selection-end-line="3963" selection-end-column="1" />
         </state>
       </provider>
     </entry>
