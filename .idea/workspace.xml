@@ -82,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="4041" column="17" selection-start-line="4041" selection-start-column="17" selection-end-line="4041" selection-end-column="17" />
+            <state relative-caret-position="279">
+              <caret line="4002" column="16" selection-start-line="4002" selection-start-column="16" selection-end-line="4002" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -126,6 +126,7 @@
       <find>266px !important</find>
       <find>padding: 37px 24px 0px</find>
       <find>получить контак</find>
+      <find>.section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,12 +238,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="12484000" />
+      <workItem from="1567142725461" duration="12985000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15681000" />
+    <option name="totallyTimeSpent" value="16182000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -342,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="4041" column="17" selection-start-line="4041" selection-start-column="17" selection-end-line="4041" selection-end-column="17" />
+        <state relative-caret-position="279">
+          <caret line="4002" column="16" selection-start-line="4002" selection-start-column="16" selection-end-line="4002" selection-end-column="16" />
         </state>
       </provider>
     </entry>

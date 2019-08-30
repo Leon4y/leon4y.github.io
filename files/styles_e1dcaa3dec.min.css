@@ -4000,7 +4000,7 @@ body {
 }
 
 .section.section-franchise-doings .franchise-doings-slide img {
-    width: 266px;
+    width: 100%;
     height: 188px;
     object-fit: cover;
 }
