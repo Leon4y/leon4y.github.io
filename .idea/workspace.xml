@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/files/fonts/slick-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/fonts/slick-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/fonts/slick-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/fonts/slick.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/fonts/slickd41d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/slick.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/slick.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,7 +33,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="41" />
-          <entry key="HTML" value="74" />
+          <entry key="HTML" value="76" />
           <entry key="JavaScript" value="12" />
         </counts>
       </usages-collector>
@@ -43,17 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/slick-theme.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+            <state relative-caret-position="158">
+              <caret line="1689" column="109" selection-start-line="1689" selection-start-column="109" selection-end-line="1689" selection-end-column="109" />
             </state>
           </provider>
         </entry>
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="803">
-              <caret line="4132" lean-forward="true" selection-start-line="4132" selection-end-line="4132" />
+            <state relative-caret-position="449">
+              <caret line="3980" lean-forward="true" selection-start-line="3980" selection-end-line="3980" />
             </state>
           </provider>
         </entry>
@@ -84,7 +83,6 @@
       <find>выберите</find>
       <find>franchize/</find>
       <find>.js</find>
-      <find>slick</find>
       <find>lick-slide slick-cloned&quot; data-slick-index=&quot;-4&quot; aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot;</find>
       <find>slick.min</find>
       <find>ck/slick.css</find>
@@ -98,6 +96,10 @@
       <find>slick-2.</find>
       <find>charset</find>
       <find>slick-theme</find>
+      <find>sli</find>
+      <find>slick-arrow</find>
+      <find>before</find>
+      <find>slick</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,21 +160,7 @@
             <path>
               <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="franchize" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="7473000" />
+      <workItem from="1567142725461" duration="8183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10670000" />
+    <option name="totallyTimeSpent" value="11380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -269,13 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="803">
-          <caret line="4132" lean-forward="true" selection-start-line="4132" selection-end-line="4132" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/fonts/slick.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -283,17 +264,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="3980" lean-forward="true" selection-start-line="3980" selection-end-line="3980" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/files/slick-theme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+        <state relative-caret-position="626">
+          <caret line="199" column="41" selection-start-line="199" selection-start-column="35" selection-end-line="199" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        <state relative-caret-position="158">
+          <caret line="1689" column="109" selection-start-line="1689" selection-start-column="109" selection-end-line="1689" selection-end-column="109" />
         </state>
       </provider>
     </entry>
