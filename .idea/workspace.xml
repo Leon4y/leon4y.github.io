@@ -26,12 +26,12 @@
         <counts>
           <entry key="CSS" value="42" />
           <entry key="HTML" value="78" />
-          <entry key="JavaScript" value="14" />
+          <entry key="JavaScript" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="4" />
+          <entry key="CSS" value="5" />
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="2" />
         </counts>
@@ -40,20 +40,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="1688" column="107" lean-forward="true" selection-start-line="1688" selection-start-column="107" selection-end-line="1688" selection-end-column="107" />
+            <state relative-caret-position="391">
+              <caret line="1636" column="18" lean-forward="true" selection-start-line="1636" selection-start-column="18" selection-end-line="1636" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="4049" column="26" lean-forward="true" selection-start-line="4049" selection-start-column="26" selection-end-line="4049" selection-end-column="26" />
+            <state relative-caret-position="575">
+              <caret line="4068" column="48" selection-start-line="4068" selection-start-column="48" selection-end-line="4068" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -61,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+            <state relative-caret-position="715">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
             </state>
           </provider>
         </entry>
@@ -101,8 +101,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" />
-        <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
       </list>
     </option>
   </component>
@@ -195,12 +195,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="8664000" />
+      <workItem from="1567142725461" duration="8831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11861000" />
+    <option name="totallyTimeSpent" value="12028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -256,24 +256,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="4049" column="26" lean-forward="true" selection-start-line="4049" selection-start-column="26" selection-end-line="4049" selection-end-column="26" />
+        <state relative-caret-position="391">
+          <caret line="1636" column="18" lean-forward="true" selection-start-line="1636" selection-start-column="18" selection-end-line="1636" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="55" column="7" lean-forward="true" selection-start-line="55" selection-start-column="7" selection-end-line="55" selection-end-column="7" />
+        <state relative-caret-position="715">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="1688" column="107" lean-forward="true" selection-start-line="1688" selection-start-column="107" selection-end-line="1688" selection-end-column="107" />
+        <state relative-caret-position="575">
+          <caret line="4068" column="48" selection-start-line="4068" selection-start-column="48" selection-end-line="4068" selection-end-column="48" />
         </state>
       </provider>
     </entry>
