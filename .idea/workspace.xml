@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leon4y.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-05.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-12.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-13.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-14.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-chelyabinsk-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-chelyabinsk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-chita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-izhevsk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-kaluga.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-sterlitamak.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/franchise-doings-ufa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/graph-chartjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/files/graph-chartjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,7 +25,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="44" />
-          <entry key="HTML" value="79" />
+          <entry key="HTML" value="81" />
           <entry key="JavaScript" value="18" />
         </counts>
       </usages-collector>
@@ -64,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
+            <state relative-caret-position="255">
+              <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
               <folding>
                 <element signature="e#4303#4323#0" expanded="true" />
                 <element signature="e#4539#4559#0" expanded="true" />
@@ -239,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="9230000" />
+      <workItem from="1567142725461" duration="9320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12427000" />
+    <option name="totallyTimeSpent" value="12517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -316,8 +295,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="111" selection-start-line="14" selection-start-column="111" selection-end-line="14" selection-end-column="111" />
+        <state relative-caret-position="255">
+          <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
           <folding>
             <element signature="e#4303#4323#0" expanded="true" />
             <element signature="e#4539#4559#0" expanded="true" />
