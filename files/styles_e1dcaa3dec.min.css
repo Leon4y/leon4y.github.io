@@ -3878,6 +3878,12 @@ body {
     font-size: 14px
 }
 
+.section.section-franchise-doings {
+    margin-bottom:80px;
+}
+.section.section-franchise-doings h2 {
+    margin-bottom: 40px;
+}
 .section.section-franchise-doings .franchise-doings-maintext p {
     font-size: 24px;
     line-height: 24px;
@@ -3888,31 +3894,25 @@ body {
     line-height: 40px;
 }
 
-.section.section-franchise-doings .franchise-doings-warning {
-    padding: 16px 33px 12px 48px;
-    background-color: #eee;
-    border-radius: 30px;
-    display: inline-block;
-    position: relative;
-    margin-bottom: 28px;
-}
-
-.section.section-franchise-doings .franchise-doings-get-contacts .btn {
-    text-transform: none;
-    padding: 10px 25px;
-    box-shadow: none;
-    margin-top: 20px;
-    letter-spacing: normal;
-    font-weight: 400;
-}
-
 .section.section-franchise-doings .franchise-doings-maintext p:last-child {
     margin-top: 31px;
     margin-bottom: 26px;
     color: #023e7f;
 }
-
-.section.section-franchise-doings .franchise-doings-warning:before {
+.section.section-franchise-doings .franchise-doings-maintext p:last-child i.fa-angle-double-down {
+    padding-left: 16px;
+    vertical-align: middle;
+    display: inline-block;
+}
+.section.section-franchise-doings .franchise-doings-warning {
+    padding: 16px 33px 12px 48px;
+    background-color: #eeeeee;
+    border-radius: 30px;
+    display: inline-block;
+    position: relative;
+    margin-bottom: 28px;
+}
+.section.section-franchise-doings .franchise-doings-warning::before {
     content: "!";
     position: absolute;
     text-align: center;
@@ -3923,19 +3923,77 @@ body {
     border-radius: 50%;
     font-size: 18px;
     line-height: 22px;
-    font-weight: 700;
+    font-weight: bold;
     background-color: #ffc12a;
 }
-
 .section.section-franchise-doings .franchise-doings-warning p {
     font-size: 18px;
     line-height: 18px;
     color: #b12828;
     margin: 0;
 }
+.section.section-franchise-doings .franchise-doings-warning p a {
+    cursor: pointer;
+    outline: 0;
+}
+.section.section-franchise-doings .franchise-doings-warning p span {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #000;
+}
+
+.section.section-franchise-doings .franchise-doings-slider {
+    position: relative;
+}
+
+.section.section-franchise-doings .slick-list {
+    margin: 0 -15px;
+}
+
+.section.section-franchise-doings .slick-arrow {
+    background-color: transparent;
+    border-radius: 50%;
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    z-index: 10;
+}
+
+.section.section-franchise-doings .slick-prev {
+    left: -32px;
+}
+
+.section.section-franchise-doings .slick-next {
+    right: -32px;
+}
+
+.section.section-franchise-doings .slick-arrow::before {
+    color: #ffc12a;
+    font-size: 76px;
+    top: 0;
+    left: -6px;
+    opacity: 1;
+    position: absolute;
+    line-height: 64px;
+    border-radius: 50%;
+    z-index: 15;
+}
+
+.section.section-franchise-doings .slick-arrow::after {
+    content: "";
+    background-color: #000;
+    width: 54px;
+    height: 54px;
+    z-index: 11;
+    position: absolute;
+    top: 4px;
+    left: 6px;
+    border-radius: 50%;
+}
+
 
 .section.section-franchise-doings .franchise-doings-slide {
-    width: 266px!important;
+    width: 266px !important;
     height: 350px;
     background-color: #ededed;
     margin: 0 15px;
@@ -3960,46 +4018,59 @@ body {
 }
 
 .section.section-franchise-doings .franchise-doings-slide .slide-text {
-    padding: 37px 24px 0;
-}
-
-.section.section-franchise-doings .franchise-doings-maintext p:last-child i.fa-angle-double-down {
-    padding-left: 16px;
-    vertical-align: middle;
-    display: inline-block;
-}
-
-.section.section-franchise-doings .franchise-doings-slide .slide-text p:first-child {
-    font-size: 21px;
-    line-height: 21px;
-    font-weight: 700;
-    margin-bottom: 10px;
-}
-
-.section.section-franchise-doings .franchise-doings-slide .slide-text p:nth-child(2) {
-    font-size: 16.35px;
-    line-height: 18px;
-    margin-bottom: 16px;
-}
-
-.section.section-franchise-doings .franchise-doings-slide .slide-text p:nth-child(2) span {
-    white-space: nowrap;
-}
-
-.section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child {
-    font-size: 21px;
-    line-height: 21px;
-    color: #023e7f;
-    font-weight: 700;
+    padding: 37px 24px 0px 24px;
 }
 
 .section.section-franchise-doings .franchise-doings-slide .slide-text p {
     margin: 0;
 }
 
+.section.section-franchise-doings .franchise-doings-slide .slide-text p:first-child {
+    font-size: 21px;
+    line-height: 21px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.section.section-franchise-doings .franchise-doings-slide .slide-text p:nth-child(2) {
+    font-size: 16.35px;
+    line-height: 18px;
+    margin-bottom: 16px;
+}
+.section.section-franchise-doings .franchise-doings-slide .slide-text p:nth-child(2) span {
+    white-space: nowrap;
+}
+.section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child {
+    font-size: 21px;
+    line-height: 21px;
+    color: #023e7f;
+    font-weight: bold;
+}
 .section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child i {
     vertical-align: middle;
     display: inline-block;
     padding-right: 11px;
     color: #258404;
+}
+
+.section.section-franchise-doings .franchise-doings-get-contacts .btn {
+    text-transform: none;
+    padding: 10px 25px;
+    box-shadow: none;
+    margin-top: 20px;
+    letter-spacing: normal;
+    font-weight: normal;
+}
+
+#franchise-doings {
+    width: 360px;
+}
+
+@media (min-width: 1230px) {
+    .section.section-franchise-doings .slick-prev {
+        left: -52px;
+    }
+
+    .section.section-franchise-doings .slick-next {
+        right: -52px;
+    }
 }
