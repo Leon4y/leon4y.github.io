@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +40,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -79,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="4076" selection-start-line="4076" selection-end-line="4076" />
+            <state relative-caret-position="245">
+              <caret line="3994" column="59" selection-start-line="3994" selection-start-column="59" selection-end-line="3994" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -131,9 +131,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" />
         <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" />
       </list>
     </option>
   </component>
@@ -234,12 +234,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="11886000" />
+      <workItem from="1567142725461" duration="12197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15083000" />
+    <option name="totallyTimeSpent" value="15394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -300,13 +300,6 @@
         <state relative-caret-position="-2091" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="4076" selection-start-line="4076" selection-end-line="4076" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="647">
@@ -341,6 +334,13 @@
             <element signature="e#241570#241587#0" expanded="true" />
             <element signature="e#243032#243053#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="3994" column="59" selection-start-line="3994" selection-start-column="59" selection-end-line="3994" selection-end-column="59" />
         </state>
       </provider>
     </entry>
