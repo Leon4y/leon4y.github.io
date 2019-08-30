@@ -25,7 +25,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="44" />
-          <entry key="HTML" value="81" />
+          <entry key="HTML" value="83" />
           <entry key="JavaScript" value="18" />
         </counts>
       </usages-collector>
@@ -40,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+            <state relative-caret-position="238">
+              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
               <folding>
                 <element signature="e#4303#4323#0" expanded="true" />
                 <element signature="e#4539#4559#0" expanded="true" />
@@ -76,16 +76,16 @@
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="861">
-              <caret line="4076" lean-forward="true" selection-start-line="4076" selection-end-line="4076" />
+              <caret line="4076" selection-start-line="4076" selection-end-line="4076" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="61" column="4" selection-end-line="71" />
+            <state relative-caret-position="358">
+              <caret line="50" column="55" lean-forward="true" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -101,7 +101,6 @@
       <find>lick-slide slick-cloned&quot; data-slick-index=&quot;-4&quot; aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot;</find>
       <find>slick.min</find>
       <find>ck/slick.css</find>
-      <find>jquer</find>
       <find>slic</find>
       <find>7E74</find>
       <find>DOING</find>
@@ -115,6 +114,7 @@
       <find>before</find>
       <find>slick-arrow</find>
       <find>slick</find>
+      <find>jquer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -175,6 +175,14 @@
             <path>
               <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="franchize" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -218,12 +226,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="9320000" />
+      <workItem from="1567142725461" duration="9502000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12517000" />
+    <option name="totallyTimeSpent" value="12699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -279,24 +287,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="61" column="4" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
-          <caret line="4076" lean-forward="true" selection-start-line="4076" selection-end-line="4076" />
+          <caret line="4076" selection-start-line="4076" selection-end-line="4076" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+        <state relative-caret-position="238">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
           <folding>
             <element signature="e#4303#4323#0" expanded="true" />
             <element signature="e#4539#4559#0" expanded="true" />
@@ -320,6 +321,13 @@
             <element signature="e#241570#241587#0" expanded="true" />
             <element signature="e#243032#243053#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
         </state>
       </provider>
     </entry>
