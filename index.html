@@ -65,23 +65,6 @@
 
     <link rel="stylesheet" href="files/styles_e1dcaa3dec.min.css" type="text/css">
     <link rel="stylesheet" href="files/default.css" type="text/css">
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-    <script type="text/javascript">
-        (function ($, slick) {
-            $(document).ready(function () {
-                $('.franchise-doings-slider').slick({
-                    infinite: true,
-                    slidesToShow: 4,
-                    slidesToScroll: 2,
-                    speed: 200,
-                    variableWidth: false,
-                    prevArrow: '<i class="slick-prev fa" aria-hidden="true"></i>',
-                    nextArrow: '<i class="slick-next fa" aria-hidden="true"></i>'
-                })
-            })
-        })(jQuery, slick)
-    </script>
 </head>
 <!--            assets/template/franchize/css/mobile.css                  assets/template/franchize/js/viewport.js,       assets/template/franchize/js/ismobile.js, -->
 
@@ -1920,6 +1903,23 @@
 <script src="files/jquery.magnific-popup.min.js"></script>
 <script src="files/phonecode.js"></script>
 <script src="files/counties.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript">
+    (function ($, slick) {
+        $(document).ready(function () {
+            $('.franchise-doings-slider').slick({
+                infinite: true,
+                slidesToShow: 4,
+                slidesToScroll: 2,
+                speed: 200,
+                variableWidth: false,
+                prevArrow: '<i class="slick-prev fa" aria-hidden="true"></i>',
+                nextArrow: '<i class="slick-next fa" aria-hidden="true"></i>'
+            })
+        })
+    })(jQuery, slick)
+</script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 <script>
     $(document).ready(function () {

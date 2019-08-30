@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,7 +25,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="38" />
-          <entry key="HTML" value="57" />
+          <entry key="HTML" value="60" />
           <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
@@ -43,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+            <state relative-caret-position="779">
+              <caret line="1921" column="9" selection-start-line="1921" selection-start-column="9" selection-end-line="1921" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -191,12 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567080230918</updated>
       <workItem from="1567080232768" duration="3197000" />
-      <workItem from="1567142725461" duration="1536000" />
+      <workItem from="1567142725461" duration="1656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4733000" />
+    <option name="totallyTimeSpent" value="4853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -247,8 +246,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+        <state relative-caret-position="779">
+          <caret line="1921" column="9" selection-start-line="1921" selection-start-column="9" selection-end-line="1921" selection-end-column="9" />
         </state>
       </provider>
     </entry>
