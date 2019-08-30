@@ -8,10 +8,10 @@ var chartConfig = {
         labels: ['1 кв. 2018', '2 кв. 2018', '3 кв. 2018', '4 кв. 2018', '1 кв. 2019', '2 кв. 2019', '3 кв. 2019', '4 кв. 2019', '1 кв. 2020', '2 кв. 2020', '3 кв. 2020', '4 кв. 2020'
         ],
         datasets: [{
-            label: 'CЦ открыто',
+            label: 'Сервисные центры открыто',
              backgroundColor: '#023e7f',
             borderColor: '#023e7f',
-            
+
             fill: false,
             data: [
             67,
@@ -28,8 +28,8 @@ var chartConfig = {
             900
             ]
         }, {
-             label: 'СЦ на открытии',
-           
+             label: 'Сервисные центры на открытии',
+
            backgroundColor: '#ffc12a',
             borderColor: '#ffc12a',
             fill: false,
