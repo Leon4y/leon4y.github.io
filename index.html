@@ -1937,8 +1937,15 @@
             $('.total span').html('1 390 000 руб');
             $('.total-sale .left-block .price').html('990 000 руб');
             $('.profit .value').html('от 230 000 руб в месяц');
-            $("section.section-select .items .description").hide();
+            $(".section.section-select .items .description").hide();
+            $(".section.section-select .inner-line").hide();
+            $(".section.section-select .right-block").hide();
             $(".section.section-select ul li:last-child").show();
+            var cssValues = {
+                "width":"200px",
+                "height":"100px"
+            }
+            $("p").css(cssValues);
             $.magnificPopup.close();
             geoPopupCookie();
         });
