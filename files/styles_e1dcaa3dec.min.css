@@ -1085,7 +1085,7 @@ svg+svg {
     position: absolute;
     top: 0;
     right: 50%;
-    line-height: 140px;
+    line-height: 140px; 
     font-weight: 700;
     font-size: 70px;
     color: #023e7f;
