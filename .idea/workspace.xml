@@ -27,7 +27,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="52" />
-          <entry key="HTML" value="185" />
+          <entry key="HTML" value="186" />
           <entry key="JavaScript" value="51" />
         </counts>
       </usages-collector>
@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="1942" column="65" selection-start-line="1942" selection-start-column="65" selection-end-line="1942" selection-end-column="65" />
+            <state relative-caret-position="462">
+              <caret line="1948" column="77" selection-start-line="1948" selection-start-column="77" selection-end-line="1948" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -214,12 +214,12 @@
       <workItem from="1567080232768" duration="3197000" />
       <workItem from="1567142725461" duration="14654000" />
       <workItem from="1567422244658" duration="1213000" />
-      <workItem from="1568968850344" duration="4809000" />
+      <workItem from="1568968850344" duration="4998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23873000" />
+    <option name="totallyTimeSpent" value="24062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -322,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="1942" column="65" selection-start-line="1942" selection-start-column="65" selection-end-line="1942" selection-end-column="65" />
+        <state relative-caret-position="462">
+          <caret line="1948" column="77" selection-start-line="1948" selection-start-column="77" selection-end-line="1948" selection-end-column="77" />
         </state>
       </provider>
     </entry>
