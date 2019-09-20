@@ -1093,6 +1093,78 @@ svg+svg {
     text-decoration: line-through
 }
 
+.section.section-select .total-sale {
+    width: 450px;
+    height: 120px;
+}
+
+.section.section-select .total-sale p,
+.section.section-select .total-sale a {
+    color: black;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 18px;
+    padding-bottom: 4px;
+}
+
+.section.section-select .total-sale a {
+    font-size: 11px;
+    line-height: 11px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: -3px;
+}
+
+.section.section-select .total-sale .right-block,
+.section.section-select .total-sale .left-block {
+
+}
+.section.section-select .total-sale .inner-line {
+    width: 1px;
+    height: 84px;
+    margin: 0 30px;
+    background-color: rgba(0,0,0,1);
+}
+
+.section.section-select .total-sale .right-block p:first-child,
+.section.section-select .total-sale .left-block p:first-child {
+    font-weight: bold;
+}
+.section.section-select .total-sale .right-block p:nth-child(2),
+.section.section-select .total-sale .left-block p:nth-child(2) {
+    font-size: 16px;
+}
+.section.section-select .total-sale .right-block p:nth-child(2) {
+    position: relative;
+    padding-bottom: 0;
+}
+.section.section-select .total-sale .right-block p:nth-child(2)::after {
+    content: "SALE";
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 12px;
+    padding: 5px;
+    background-color: #093;
+    position: absolute;
+    top: -2px;
+    right: -45px;
+    border-radius: 3px;
+}
+
+.section.section-select .total-sale .left-block p:nth-child(2) {
+    padding-bottom: 24px;
+}
+
+.section.section-select .total-sale .right-block p:last-child,
+.section.section-select .total-sale .left-block p:last-child {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
 .section.section-select .item ul {
     list-style: none;
     border-bottom: 1px solid #0352a4;
