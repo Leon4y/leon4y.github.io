@@ -1226,22 +1226,14 @@ svg+svg {
     display: flex;
     background-color: #ffc02a;
     padding: 16px;
-    width: 184px
-}
-
-.section.section-select .total-sale a,
-.section.section-select .total-sale p {
-    color: #000;
-    margin: 0;
-    font-size: 18px;
-    line-height: 18px;
-    padding: 0 0 4px
+    width: 450px;
+    height: 120px;
 }
 
 .section.section-select .total-sale .left-block p:first-child,
 .section.section-select .total-sale .right-block p:first-child {
     font-weight: 700;
-    padding-bottom: 24px
+    padding-bottom: 8px;
 }
 
 .section.section-select .total-sale .left-block p:nth-child(2) {
