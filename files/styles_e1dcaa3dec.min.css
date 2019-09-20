@@ -1061,7 +1061,7 @@ svg+svg {
 
 .section.section-select .item .background {
     background-color: #023e7f;
-    background-image: url(../assets/template/franchize/img/select-1.jpg);
+    background-image: url(../assets/template/franchize/img/select-1new.jpg);
     background-position: right;
     background-size: 50% auto;
     background-repeat: no-repeat;
@@ -1073,6 +1073,11 @@ svg+svg {
 .section.section-select .item-2 .background {
     background-image: url(../assets/template/franchize/img/select-2.jpg)
 }
+
+.section.section-select .item-2 .background {
+    background-image: url(../assets/template/franchize/img/select-3.jpg)
+}
+
 
 .section.section-select .item .background .corner {
     width: 180px;
