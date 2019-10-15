@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -32,8 +31,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="101" />
-          <entry key="HTML" value="433" />
+          <entry key="CSS" value="131" />
+          <entry key="HTML" value="463" />
           <entry key="JavaScript" value="54" />
         </counts>
       </usages-collector>
@@ -52,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="2302" column="43" selection-start-line="2302" selection-start-column="43" selection-end-line="2302" selection-end-column="43" />
+            <state relative-caret-position="156">
+              <caret line="1352" column="27" selection-start-line="1352" selection-start-column="27" selection-end-line="1352" selection-end-column="27" />
               <folding>
                 <element signature="e#4457#4477#0" expanded="true" />
                 <element signature="e#4705#4725#0" expanded="true" />
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="1187" column="16" lean-forward="true" selection-start-line="1187" selection-start-column="16" selection-end-line="1187" selection-end-column="16" />
+            <state relative-caret-position="164">
+              <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -93,10 +92,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.section.section-select .item-2 .background</find>
-      <find>inline-li</find>
-      <find>.section.section-select .item .background</find>
-      <find>msk</find>
       <find>moscow</find>
       <find>data-bg=&quot;/assets/template/franchize/img/select-3.</find>
       <find>.section.section-select .item-3 .background</find>
@@ -123,6 +118,10 @@
       <find>class=&quot;&quot;&gt;</find>
       <find>class=&quot;msk&quot;&gt;</find>
       <find>&lt;div class=&quot;corner&quot;&gt;01&lt;/div&gt;</find>
+      <find>170</find>
+      <find>section-format</find>
+      <find>узнайте</find>
+      <find>franchise-</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -226,12 +225,12 @@
       <workItem from="1570623691561" duration="1829000" />
       <workItem from="1570700671251" duration="29000" />
       <workItem from="1571121454368" duration="4207000" />
-      <workItem from="1571134341142" duration="3783000" />
+      <workItem from="1571134341142" duration="6076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35290000" />
+    <option name="totallyTimeSpent" value="37583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,13 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1187" column="16" lean-forward="true" selection-start-line="1187" selection-start-column="16" selection-end-line="1187" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -341,10 +333,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="2302" column="43" selection-start-line="2302" selection-start-column="43" selection-end-line="2302" selection-end-column="43" />
+        <state relative-caret-position="156">
+          <caret line="1352" column="27" selection-start-line="1352" selection-start-column="27" selection-end-line="1352" selection-end-column="27" />
           <folding>
             <element signature="e#4457#4477#0" expanded="true" />
             <element signature="e#4705#4725#0" expanded="true" />

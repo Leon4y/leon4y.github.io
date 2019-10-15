@@ -248,6 +248,12 @@ a.btn {
     position: relative
 }
 
+.section.section-format .item:nth-child(7) .ip,
+.section.section-format .item:nth-child(8) .ip {
+    font-size: 42px;
+    position: absolute;
+}
+
 .section.section-format .item .ip {
     position: absolute;
     top: 50%;
@@ -3963,6 +3969,13 @@ body {
     margin-top: 31px;
     margin-bottom: 26px;
     color: #023e7f;
+}
+.section.section-franchise-doings .franchise-doings-slide .slide-text > a {
+    font-size: 21px;
+    line-height: 21px;
+    color: #023e7f;
+    font-weight: 700;
+    text-decoration: none;
 }
 .section.section-franchise-doings .franchise-doings-maintext p:last-child i.fa-angle-double-down {
     padding-left: 16px;
