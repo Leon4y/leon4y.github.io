@@ -1184,10 +1184,6 @@ svg+svg {
     padding-left: 30px
 }
 
-.section.section-select .item li:last-child {
-    display: none
-}
-
 .section.section-select .item li:before {
     content: "";
     position: absolute;
@@ -1569,7 +1565,7 @@ svg+svg {
 }
 
 .section-map #services-map svg {
-    height: 400px;
+    height: 440px;
     overflow: hidden
 }
 
@@ -4093,6 +4089,15 @@ body {
     margin: 0;
 }
 
+.section.section-franchise-doings .franchise-doings-slide .slide-text p a:hover {
+    color: #023e7f;
+}
+
+.section.section-franchise-doings .franchise-doings-slide .slide-text p a:focus {
+    outline: none;
+}
+
+
 .section.section-franchise-doings .franchise-doings-slide .slide-text p:first-child {
     font-size: 20px;
     line-height: 21px;
@@ -4107,12 +4112,7 @@ body {
 .section.section-franchise-doings .franchise-doings-slide .slide-text p:nth-child(2) span {
     white-space: nowrap;
 }
-.section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child {
-    font-size: 20px;
-    line-height: 21px;
-    color: #023e7f;
-    font-weight: bold;
-}
+
 .section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child i {
     vertical-align: middle;
     display: inline-block;
@@ -4131,6 +4131,23 @@ body {
 
 #franchise-doings {
     width: 360px;
+}
+
+.section-videos .show-more {
+    display: flex;
+    justify-content: center;
+}
+
+.section-videos .row {
+    margin-bottom: 30px;
+}
+
+.section-videos div#videos-hidden.hide-me {
+    display: none;
+}
+
+.section-videos div#videos-hidden.hide-me iframe {
+    display: none;
 }
 
 @media (min-width: 1230px) {
