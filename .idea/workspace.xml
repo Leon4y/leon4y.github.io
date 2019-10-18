@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/select-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/template/franchize/img/select-3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,14 +19,15 @@
     <session id="-955204224">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -51,20 +52,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="1352" column="27" selection-start-line="1352" selection-start-column="27" selection-end-line="1352" selection-end-column="27" />
+            <state relative-caret-position="190">
+              <caret line="1923" column="25" lean-forward="true" selection-start-line="1923" selection-start-column="25" selection-end-line="1923" selection-end-column="25" />
               <folding>
                 <element signature="e#4457#4477#0" expanded="true" />
                 <element signature="e#4705#4725#0" expanded="true" />
                 <element signature="e#5219#5239#0" expanded="true" />
                 <element signature="e#5566#5586#0" expanded="true" />
                 <element signature="e#5684#5704#0" expanded="true" />
-                <element signature="e#259153#259174#0" expanded="true" />
-                <element signature="e#259211#259237#0" expanded="true" />
-                <element signature="e#259346#259372#0" expanded="true" />
-                <element signature="e#263011#263032#0" expanded="true" />
-                <element signature="e#263069#263095#0" expanded="true" />
-                <element signature="e#263204#263230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
+            <state relative-caret-position="67524">
               <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
             </state>
           </provider>
@@ -82,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="1360">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
@@ -92,7 +87,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>moscow</find>
       <find>data-bg=&quot;/assets/template/franchize/img/select-3.</find>
       <find>.section.section-select .item-3 .background</find>
       <find>список городов</find>
@@ -122,6 +116,7 @@
       <find>section-format</find>
       <find>узнайте</find>
       <find>franchise-</find>
+      <find>отзывы</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,6 +162,32 @@
               <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="franchize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="franchize" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -226,11 +247,13 @@
       <workItem from="1570700671251" duration="29000" />
       <workItem from="1571121454368" duration="4207000" />
       <workItem from="1571134341142" duration="6076000" />
+      <workItem from="1571205491748" duration="34000" />
+      <workItem from="1571376159530" duration="349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37583000" />
+    <option name="totallyTimeSpent" value="37966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,7 +268,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17852835" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17852835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,7 +280,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -326,37 +349,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="1352" column="27" selection-start-line="1352" selection-start-column="27" selection-end-line="1352" selection-end-column="27" />
+        <state relative-caret-position="190">
+          <caret line="1923" column="25" lean-forward="true" selection-start-line="1923" selection-start-column="25" selection-end-line="1923" selection-end-column="25" />
           <folding>
             <element signature="e#4457#4477#0" expanded="true" />
             <element signature="e#4705#4725#0" expanded="true" />
             <element signature="e#5219#5239#0" expanded="true" />
             <element signature="e#5566#5586#0" expanded="true" />
             <element signature="e#5684#5704#0" expanded="true" />
-            <element signature="e#259153#259174#0" expanded="true" />
-            <element signature="e#259211#259237#0" expanded="true" />
-            <element signature="e#259346#259372#0" expanded="true" />
-            <element signature="e#263011#263032#0" expanded="true" />
-            <element signature="e#263069#263095#0" expanded="true" />
-            <element signature="e#263204#263230#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67524">
+          <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
