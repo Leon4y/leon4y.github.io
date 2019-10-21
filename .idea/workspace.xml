@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/16-x8psy1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/files/16-x8psy1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,21 +18,21 @@
     <session id="-955204224">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="131" />
-          <entry key="HTML" value="463" />
+          <entry key="HTML" value="469" />
           <entry key="JavaScript" value="54" />
         </counts>
       </usages-collector>
@@ -51,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="1919" column="6" lean-forward="true" selection-start-line="1919" selection-start-column="6" selection-end-line="1919" selection-end-column="6" />
+            <state relative-caret-position="292">
+              <caret line="140" column="66" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
               <folding>
                 <element signature="e#4457#4477#0" expanded="true" />
                 <element signature="e#4705#4725#0" expanded="true" />
@@ -86,9 +86,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>data-bg=&quot;/assets/template/franchize/img/select-3.</find>
-      <find>.section.section-select .item-3 .background</find>
-      <find>список городов</find>
       <find>белго</find>
       <find>.section-map #services-map svg</find>
       <find>из двух</find>
@@ -116,6 +113,9 @@
       <find>узнайте</find>
       <find>franchise-</find>
       <find>отзывы</find>
+      <find>москвы?</find>
+      <find>ваш город моск</find>
+      <find>8800</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,7 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +188,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,12 +241,14 @@
       <workItem from="1571134341142" duration="6076000" />
       <workItem from="1571205491748" duration="34000" />
       <workItem from="1571376159530" duration="966000" />
-      <workItem from="1571654389711" duration="659000" />
+      <workItem from="1571654389711" duration="1221000" />
+      <workItem from="1571661719316" duration="268000" />
+      <workItem from="1571662378209" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39242000" />
+    <option name="totallyTimeSpent" value="40077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,8 +261,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17852835" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17852835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,7 +275,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295964" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -343,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1919" column="6" lean-forward="true" selection-start-line="1919" selection-start-column="6" selection-end-line="1919" selection-end-column="6" />
+        <state relative-caret-position="292">
+          <caret line="140" column="66" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
           <folding>
             <element signature="e#4457#4477#0" expanded="true" />
             <element signature="e#4705#4725#0" expanded="true" />
