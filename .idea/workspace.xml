@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="" />
+    <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,13 +28,14 @@
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="4" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="131" />
-          <entry key="HTML" value="469" />
+          <entry key="CSS" value="255" />
+          <entry key="HTML" value="504" />
           <entry key="JavaScript" value="54" />
         </counts>
       </usages-collector>
@@ -48,14 +54,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="2463" column="36" lean-forward="true" selection-start-line="2463" selection-start-column="36" selection-end-line="2463" selection-end-column="36" />
+            <state relative-caret-position="173">
+              <caret line="161" column="52" selection-start-line="161" selection-start-column="52" selection-end-line="161" selection-end-column="52" />
               <folding>
                 <element signature="e#4457#4477#0" expanded="true" />
                 <element signature="e#4705#4725#0" expanded="true" />
                 <element signature="e#5219#5239#0" expanded="true" />
                 <element signature="e#5566#5586#0" expanded="true" />
-                <element signature="e#5684#5704#0" expanded="true" />
+                <element signature="e#9402#9428#0" expanded="true" />
+                <element signature="e#9671#9741#0" expanded="true" />
+                <element signature="e#277744#277769#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67524">
-              <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
+            <state relative-caret-position="305">
+              <caret line="4319" column="5" lean-forward="true" selection-start-line="4319" selection-start-column="5" selection-end-line="4319" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -73,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1360">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            <state relative-caret-position="247">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
             </state>
           </provider>
         </entry>
@@ -83,36 +91,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>белго</find>
-      <find>.section-map #services-map svg</find>
-      <find>из двух</find>
-      <find>сервисных центра</find>
-      <find>250 000</find>
-      <find>link-inline</find>
-      <find>.section.section-franchise-doings .franchise-doings-slide .slide-text p:last-child</find>
-      <find>slide-text</find>
-      <find>виктор</find>
-      <find>lazy</find>
-      <find>class=&quot;lazy&quot; data-</find>
-      <find>&lt;div class=&quot;title&quot;&gt;3) Павильон в торговом центре&lt;/div&gt;</find>
-      <find>&lt;div class=&quot;title&quot;&gt;3) Павильон в торговом центре</find>
-      <find>3) Павильон в торговом центре</find>
-      <find>Павильон в торговом центре</find>
-      <find>.section.section-select .item li</find>
-      <find>1) Сервис в торговом центре</find>
-      <find>&lt;li class=&quot;&quot;&gt;</find>
-      <find>.section.section-select .item li:last-child</find>
-      <find>class=&quot;&quot;&gt;</find>
-      <find>class=&quot;msk&quot;&gt;</find>
-      <find>&lt;div class=&quot;corner&quot;&gt;01&lt;/div&gt;</find>
-      <find>170</find>
-      <find>section-format</find>
-      <find>узнайте</find>
-      <find>franchise-</find>
-      <find>отзывы</find>
-      <find>москвы?</find>
-      <find>ваш город моск</find>
-      <find>8800</find>
+      <find>.refund</find>
+      <find>descriptio</find>
+      <find>garanty</find>
+      <find>.section-important-to-know li</find>
+      <find>font-size: 28px;</find>
+      <find>.section-important-to-know .refund p</find>
+      <find>.section-important-to-know .refund</find>
+      <find>.ref</find>
+      <find>.section-important-to-know</find>
+      <find>.section-important-to-know li .underline</find>
+      <find>ВСЕ деньг</find>
+      <find>.section-important-to-know ol</find>
+      <find>flex-</find>
+      <find>do</find>
+      <find>768</find>
+      <find>.section-important-to-know .refund li</find>
+      <find>.underl</find>
+      <find>display: inline-block;</find>
+      <find>от 490</find>
+      <find>76</find>
+      <find>section section-map</find>
+      <find>class=&quot;columns&quot;</find>
+      <find>column</find>
+      <find>314</find>
+      <find>.section.section-map</find>
+      <find>russia.jso</find>
+      <find>767</find>
+      <find>показать еще</find>
+      <find>Показать еще</find>
+      <find>https://www.youtube.com/embed/XcfOAubomgc?color=white&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,8 +130,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/files/graph-chartjs.js" />
-        <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
         <option value="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" />
+        <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -146,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +194,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,12 +248,13 @@
       <workItem from="1571376159530" duration="966000" />
       <workItem from="1571654389711" duration="1221000" />
       <workItem from="1571661719316" duration="268000" />
-      <workItem from="1571662378209" duration="717000" />
+      <workItem from="1571662378209" duration="1132000" />
+      <workItem from="1571727448496" duration="7302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40789000" />
+    <option name="totallyTimeSpent" value="48506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,7 +269,7 @@
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17852835" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17852835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,7 +281,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295964" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,31 +350,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="2463" column="36" lean-forward="true" selection-start-line="2463" selection-start-column="36" selection-end-line="2463" selection-end-column="36" />
-          <folding>
-            <element signature="e#4457#4477#0" expanded="true" />
-            <element signature="e#4705#4725#0" expanded="true" />
-            <element signature="e#5219#5239#0" expanded="true" />
-            <element signature="e#5566#5586#0" expanded="true" />
-            <element signature="e#5684#5704#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67524">
-          <caret line="3972" column="73" selection-start-line="3972" selection-start-column="73" selection-end-line="3972" selection-end-column="73" />
+        <state relative-caret-position="305">
+          <caret line="4319" column="5" lean-forward="true" selection-start-line="4319" selection-start-column="5" selection-end-line="4319" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/files/scripts_7e74db5abd.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="247">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="161" column="52" selection-start-line="161" selection-start-column="52" selection-end-line="161" selection-end-column="52" />
+          <folding>
+            <element signature="e#4457#4477#0" expanded="true" />
+            <element signature="e#4705#4725#0" expanded="true" />
+            <element signature="e#5219#5239#0" expanded="true" />
+            <element signature="e#5566#5586#0" expanded="true" />
+            <element signature="e#9402#9428#0" expanded="true" />
+            <element signature="e#9671#9741#0" expanded="true" />
+            <element signature="e#277744#277769#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
