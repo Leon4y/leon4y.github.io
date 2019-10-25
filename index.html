@@ -171,7 +171,7 @@
             <div class="bigs col-xs-12 col-lg-3">
                 <div>
                     <div class="big"><span>314</span></div>
-                    <div class="mini">Сервисных центров</div>
+                    <div class="mini">Сервисных <br class="mobile">центров</div>
                 </div>
                 <div>
                     <div class="big"><span>122</span></div>
@@ -179,7 +179,7 @@
                 </div>
                 <div>
                     <div class="big"><span>с 2013</span></div>
-                    <div class="mini">Опыт работы в сфере ремонта - 6 лет</div>
+                    <div class="mini">6 лет в сфере <br class="mobile">ремонта</div>
                 </div>
             </div>
             <div class="map col-xs-12 col-lg-9">
@@ -1145,7 +1145,8 @@
 </div>
 <div class="section section-graph">
     <div class="container">
-        <h2>Количество сервисов Pedant.ru по годам</h2>
+        <h2>Растем из года в год</h2>
+        <div class="subheader">Количество заключенных контрактов франшизы Pedant.ru по кварталам</div>
         <canvas id="chartjs-test" style="width: 100%; height: 600px;"></canvas>
     </div>
 </div>
@@ -1314,10 +1315,10 @@
         </div>
     </div>
 </div>
-<div class="section section-difference">
+<div class="section section-difference" id="why">
     <div class="container">
         <h2>Мы сделали франшизу Pedant.ru <span>сильнейшей</span></h2>
-        <div class="row">
+        <div class="row slick-mob-diff">
             <div class="item col-12 col-md-4">
                 <div class="image"><img src="files/difference-1.jpg" class="img-fluid"></div>
                 <div class="content background-gray">
@@ -1418,34 +1419,35 @@
 <div class="section section-slider">
     <div class="container">
         <h2>В сервисах Pedant.ru всегда много клиентов</h2>
-        <div class="subheader">В центральном офисе работает профессиональная команда из <strong>32
-            маркетологов!</strong>
-            <br> Маркетинг - сильнейшая компетенция команды Pedant.ru
-        </div>
+        <div class="subheader">В центральном офисе работает профессиональная команда из <strong>32 маркетологов!</strong><br>
+            Маркетинг - сильнейшая компетенция команды Pedant.ru</div>
         <div class="columns">
             <div class="column">
                 <div class="number">
                     <div class="value">13 794 345</div>
                     <div class="label">показов рекламы в мес.</div>
                 </div>
+                <div class="proof">Подтверждение: <a href="#" data-toggle="modal" data-target="#firstModal">тут</a></div>
             </div>
             <div class="column">
                 <div class="number">
                     <div class="value">1 212 546</div>
                     <div class="label">посетителей на сайтах в мес.</div>
                 </div>
+                <div class="proof">Подтверждение: <a href="#" data-toggle="modal" data-target="#secondModal">тут</a></div>
             </div>
             <div class="column">
                 <div class="number">
                     <div class="value">115 534</div>
                     <div class="label">звонков клиентов в мес.</div>
                 </div>
+                <div class="proof">Подтверждение: <a href="#" data-toggle="modal" data-target="#thirdModal">тут</a></div>
             </div>
         </div>
-        <div class="row slick-mob">
-            <div class="col-md-3 col-gal">
+        <div class="row">
+            <div class="col-6 col-md-3 col-gal">
                 <div class="relative-gal">
-                    <img src="files/7-hz0ogf.jpg" class="img-fluid" alt="">
+                    <img src="files/7-hz0ogf.jpg" class="img-fluid lazy" alt="">
                     <div class="description-fullwidth">
                         <div class="text">
                             <p><b>635</b> клиентов в месяц</p>
@@ -1454,9 +1456,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-gal">
+            <div class="col-6 col-md-3 col-gal">
                 <div class="relative-gal">
-                    <img src="files/7-qj3ski.jpg" class="img-fluid" alt="">
+                    <img src="files/7-qj3ski.jpg" class="img-fluid lazy" alt="">
                     <div class="description-fullwidth">
                         <div class="text">
                             <p><b>859</b> клиентов в месяц</p>
@@ -1465,9 +1467,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-gal">
+            <div class="col-6 col-md-3 col-gal">
                 <div class="relative-gal">
-                    <img src="files/7-j2kxpb.jpg" class="img-fluid" alt="">
+                    <img src="files/7-j2kxpb.jpg" class="img-fluid lazy" alt="">
                     <div class="description-fullwidth">
                         <div class="text">
                             <p><b>526</b> клиентов в месяц</p>
@@ -1476,9 +1478,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-gal">
+            <div class="col-6 col-md-3 col-gal">
                 <div class="relative-gal">
-                    <img src="files/7-7whkym.jpg" class="img-fluid" alt="">
+                    <img src="files/7-7whkym.jpg" class="img-fluid lazy" alt="">
                     <div class="description-fullwidth">
                         <div class="text">
                             <p><b>449</b> клиентов в месяц</p>
@@ -1487,49 +1489,54 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-gal">
-                <div class="relative-gal">
-                    <img src="files/7-itaony.jpg" class="img-fluid" alt="">
-                    <div class="description-fullwidth">
-                        <div class="text">
-                            <p><b>641</b> клиентов в месяц</p>
+            <div id="slider-hidden" class="slider-hidden hide-me">
+                <div class="col-6 col-md-3 col-gal">
+                    <div class="relative-gal">
+                        <img src="files/7-itaony.jpg" class="img-fluid lazy" alt="">
+                        <div class="description-fullwidth">
+                            <div class="text">
+                                <p><b>641</b> клиентов в месяц</p>
+                            </div>
+                            <div class="city">Пермь</div>
                         </div>
-                        <div class="city">Пермь</div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-gal">
+                    <div class="relative-gal">
+                        <img src="files/7-fpilck.jpg" class="img-fluid lazy" alt="">
+                        <div class="description-fullwidth">
+                            <div class="text">
+                                <p><b>496</b> клиентов в месяц</p>
+                            </div>
+                            <div class="city">Саранск</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-gal">
+                    <div class="relative-gal">
+                        <img src="files/7-ib6peo.jpg" class="img-fluid lazy" alt="">
+                        <div class="description-fullwidth">
+                            <div class="text">
+                                <p><b>432</b> клиентов в месяц</p>
+                            </div>
+                            <div class="city">Кострома</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-gal">
+                    <div class="relative-gal">
+                        <img src="files/7-iqdy6b.jpg" class="img-fluid lazy" alt="">
+                        <div class="description-fullwidth">
+                            <div class="text">
+                                <p><b>595</b> клиентов в месяц</p>
+                            </div>
+                            <div class="city">Ростов-на-Дону</div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-gal">
-                <div class="relative-gal">
-                    <img src="files/7-fpilck.jpg" class="img-fluid" alt="">
-                    <div class="description-fullwidth">
-                        <div class="text">
-                            <p><b>496</b> клиентов в месяц</p>
-                        </div>
-                        <div class="city">Саранск</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-gal">
-                <div class="relative-gal">
-                    <img src="files/7-ib6peo.jpg" class="img-fluid" alt="">
-                    <div class="description-fullwidth">
-                        <div class="text">
-                            <p><b>432</b> клиентов в месяц</p>
-                        </div>
-                        <div class="city">Кострома</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-gal">
-                <div class="relative-gal">
-                    <img src="files/7-iqdy6b.jpg" class="img-fluid" alt="">
-                    <div class="description-fullwidth">
-                        <div class="text">
-                            <p><b>595</b> клиентов в месяц</p>
-                        </div>
-                        <div class="city">Ростов-на-Дону</div>
-                    </div>
-                </div>
+            <div class="show-more d-md-none">
+                <a href="#" class="btn btn-warning">Ещё</a>
             </div>
         </div>
     </div>
@@ -1539,9 +1546,11 @@
     <div class="subheader"></div>
     <div class="items">
         <div class="item item-1">
-            <div class="container">
-                <div class="title">1) Сервис в торговом центре</div>
-                <div class="description">франшиза на каждые 90 тыс. населения (много сервисов в 1 городе)</div>
+            <div class="wrapper">
+                <div class="container header">
+                    <div class="title">1) Сервис в торговом центре</div>
+                    <div class="description">франшиза на каждые 90 тыс. населения (много сервисов в 1 городе)</div>
+                </div>
             </div>
             <div class="background lazy" data-bg="/assets/template/franchize/img/select-1new.jpg">
                 <div class="corner">01</div>
@@ -1578,19 +1587,24 @@
                                     </div>
                                 </li>
                             </ul>
-                            <div class="total">Итого вложений: <span>990 000 руб</span>
+                            <div class="total">Итого вложений:
+                                <span>990 000 руб</span>
                             </div>
                             <div class="total-sale">
                                 <div class="left-block">
-                                    <p>Цена со скидкой</p>
-                                    <p class="price">790 000 руб</p>
+                                    <div>
+                                        <p>Цена со скидкой</p>
+                                    </div>
+                                    <p class="price">790 000 руб.</p>
                                 </div>
                                 <div class="inner-line"></div>
                                 <div class="right-block">
-                                    <p>Цена со скидкой</p>
-                                    <p>для городов с меткой</p>
-                                    <a class="link-inline" href="#orderplan">Узнать список городов</a>
-                                    <p>490 000 руб</p>
+                                    <div>
+                                        <p>Цена со скидкой</p>
+                                        <p>для городов с меткой</p>
+                                    </div>
+                                    <a class="d-none d-md-inline" href="#orderplan">Узнать список городов</a>
+                                    <p>490 000 руб.</p>
                                 </div>
                             </div>
                         </div>
@@ -1609,9 +1623,11 @@
             </div>
         </div>
         <div class="item item-2">
-            <div class="container">
-                <div class="title">2) Сервис с отдельным входом</div>
-                <div class="description">франшиза на каждые 350 тыс. населения (несколько сервисов в 1 городе)</div>
+            <div class="wrapper">
+                <div class="container header">
+                    <div class="title">2) Сервис с отдельным входом</div>
+                    <div class="description">франшиза на каждые 350 тыс. населения (несколько сервисов в 1 городе)</div>
+                </div>
             </div>
             <div class="background lazy" data-bg="/assets/template/franchize/img/select-2.jpg">
                 <div class="corner">02</div>
@@ -1654,15 +1670,19 @@
                             <div class="total">Итого вложений: <span>1 090 000 руб</span></div>
                             <div class="total-sale">
                                 <div class="left-block">
-                                    <p>Цена со скидкой</p>
-                                    <p class="price">890 000 руб</p>
+                                    <div>
+                                        <p>Цена со скидкой</p>
+                                    </div>
+                                    <p class="price">890 000 руб.</p>
                                 </div>
                                 <div class="inner-line"></div>
                                 <div class="right-block">
-                                    <p>Цена со скидкой</p>
-                                    <p>для городов с меткой</p>
-                                    <a class="link-inline" href="#orderplan">Узнать список городов</a>
-                                    <p>490 000 руб</p>
+                                    <div>
+                                        <p>Цена со скидкой</p>
+                                        <p>для городов с меткой</p>
+                                    </div>
+                                    <a class="d-none d-md-inline" href="#orderplan">Узнать список городов</a>
+                                    <p>490 000 руб.</p>
                                 </div>
                             </div>
                         </div>
@@ -1683,9 +1703,11 @@
         </div>
 
         <div class="item item-3">
-            <div class="container">
-                <div class="title">3) Павильон в торговом центре</div>
-                <div class="description">франшиза на каждые 350 тыс. населения (несколько сервисов в 1 городе)</div>
+            <div class="wrapper">
+                <div class="container header">
+                    <div class="title">3) Павильон в торговом центре</div>
+                    <div class="description">франшиза на каждые 350 тыс. населения (несколько сервисов в 1 городе)</div>
+                </div>
             </div>
             <div class="background lazy" data-bg="/assets/template/franchize/img/select-3.png">
                 <div class="corner">03</div>
@@ -1722,15 +1744,19 @@
                             <div class="total">Итого вложений: <span>1 090 000 руб</span></div>
                             <div class="total-sale">
                                 <div class="left-block">
-                                    <p>Цена со скидкой</p>
-                                    <p class="price">890 000 руб</p>
+                                    <div>
+                                        <p>Цена со скидкой</p>
+                                    </div>
+                                    <p class="price">890 000 руб.</p>
                                 </div>
                                 <div class="inner-line"></div>
                                 <div class="right-block">
-                                    <p>Цена со скидкой</p>
-                                    <p>для городов с меткой</p>
-                                    <a class="link-inline" href="#orderplan">Узнать список городов</a>
-                                    <p>490 000 руб</p>
+                                    <div>
+                                        <p>Цена со скидкой</p>
+                                        <p>для городов с меткой</p>
+                                    </div>
+                                    <a class="d-none d-md-inline" href="#orderplan">Узнать список городов</a>
+                                    <p>490 000 руб.</p>
                                 </div>
                             </div>
                         </div>
@@ -1759,8 +1785,7 @@
             </p>
             <p>Свяжитесь с текущими франчайзи напрямую и узнайте их отзыв о нас.</p>
 
-            <p>Вы получите свежий отзыв о нас прямо сейчас<i class="fa fa-angle-double-down" aria-hidden="true"></i>
-            </p>
+            <p class="d-none d-lg-inline-block">Вы получите свежий отзыв о нас прямо сейчас<i class="fa fa-angle-double-down" aria-hidden="true"></i></p>
         </div>
         <div class="franchise-doings-warning">
             <p>Рекомендуем звонить франчайзи не из Вашего города. <a tabindex="0" class="question" data-html="true"
@@ -1886,17 +1911,6 @@
                 </div>
                 <div class="slide-text">
                     <p>г. Чита</p>
-                    <p>Для получения контактов отправьте <a href="#orderplan" class="link-inline">заявку</a></p>
-                    <a href="#orderplan" class="link-inline">Узнать подробнее</a>
-                </div>
-            </div>
-            <div class="franchise-doings-slide">
-                <img src="assets/template/franchize/img/franchise-doings-izhevsk.png" alt="photo">
-                <div class="slide-name">
-                    Владислав Карпов
-                </div>
-                <div class="slide-text">
-                    <p>г. Ижевск</p>
                     <p>Для получения контактов отправьте <a href="#orderplan" class="link-inline">заявку</a></p>
                     <a href="#orderplan" class="link-inline">Узнать подробнее</a>
                 </div>
