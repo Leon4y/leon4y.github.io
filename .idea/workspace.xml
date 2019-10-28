@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/map.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/template/franchize/img/russia.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/template/franchize/img/russia.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/russia.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,6 +38,7 @@
           <entry key="CSS" value="601" />
           <entry key="HTML" value="610" />
           <entry key="JavaScript" value="135" />
+          <entry key="SVG" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -49,19 +49,25 @@
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="6" />
           <entry key="RNG Compact" value="1" />
+          <entry key="SVG" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="190" column="31" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
+            <state relative-caret-position="173">
+              <caret line="65" column="64" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="64" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/template/franchize/img/russia.svg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -86,21 +92,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/files/russia.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="60" lean-forward="true" selection-end-column="69188" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>[class^=col-]</find>
-      <find>select .total-sale .left-block p:first-child</find>
       <find>p:nth-child(2)</find>
       <find>.section.section-select .item .total-sale</find>
       <find>.right-block p:nth-child(2)</find>
@@ -126,9 +121,11 @@
       <find>img</find>
       <find>panzoom</find>
       <find>panZoom.disablePan();</find>
-      <find>disablePan</find>
       <find>svg</find>
       <find>.section-map .service circle</find>
+      <find>disablePan</find>
+      <find>russia</find>
+      <find>styles_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,6 +139,7 @@
         <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
         <option value="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/template/franchize/img/russia.svg" />
       </list>
     </option>
   </component>
@@ -188,6 +186,14 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="franchize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leon4y.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="franchize" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leon4y.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -259,12 +265,12 @@
       <workItem from="1571910238864" duration="601000" />
       <workItem from="1571915436239" duration="6159000" />
       <workItem from="1571980266850" duration="21276000" />
-      <workItem from="1572253653837" duration="3317000" />
+      <workItem from="1572253653837" duration="4156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84839000" />
+    <option name="totallyTimeSpent" value="85678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,6 +380,13 @@
     <entry file="file://$PROJECT_DIR$/assets/template/franchize/img/map.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="1547" selection-start-line="1547" selection-end-line="1564" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/files/russia.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -392,19 +405,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="1547" selection-start-line="1547" selection-end-line="1564" />
+        <state relative-caret-position="173">
+          <caret line="65" column="64" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="190" column="31" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/template/franchize/img/russia.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
