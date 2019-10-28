@@ -36,7 +36,7 @@
           <entry key="CSS" value="601" />
           <entry key="HTML" value="610" />
           <entry key="JavaScript" value="135" />
-          <entry key="SVG" value="2" />
+          <entry key="SVG" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -263,12 +263,12 @@
       <workItem from="1571910238864" duration="601000" />
       <workItem from="1571915436239" duration="6159000" />
       <workItem from="1571980266850" duration="21276000" />
-      <workItem from="1572253653837" duration="4305000" />
+      <workItem from="1572253653837" duration="4474000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85827000" />
+    <option name="totallyTimeSpent" value="85996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

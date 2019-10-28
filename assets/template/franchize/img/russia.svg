@@ -1,7 +1,27 @@
-<?xml-stylesheet type="text/css" href="/files/styles_e1dcaa3dec.min.css"?>
 <svg width="825" height="600" id="svg" xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
         style="overflow: hidden; ">
+    <style type="text/css">
+        <![CDATA[
+    .region {
+        fill: #023e7f;
+        stroke: #f2f5fa;
+        transition: .5s
+    }
+
+    .region:hover {
+        fill: #032f5f
+    }
+
+    circle {
+        fill: #ffc12a
+    }
+
+    circle.black {
+        fill: #000
+    }
+    ]]>
+    </style>
     <g id="viewport-20191009123720933" class="svg-pan-zoom_viewport"
         transform="matrix(0.8991509970540431,0,0,0.8991509970540431,56.40192030952221,50.40478334139158)"
         style="transform: matrix(0.899151, 0, 0, 0.899151, 56.4019, 50.4048);">
