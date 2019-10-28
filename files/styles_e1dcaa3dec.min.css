@@ -1577,6 +1577,12 @@ svg + svg {
     position: relative
 }
 
+.section-map img {
+    width: 100%;
+    height: auto;
+}
+
+
 .section-map .controls button {
     background: #ffc12a;
     color: #fff;
