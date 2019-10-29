@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0cc35c2-97ee-4c63-8dd5-d88d9de0d839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,7 +35,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="732" />
-          <entry key="HTML" value="629" />
+          <entry key="HTML" value="644" />
           <entry key="JavaScript" value="135" />
           <entry key="SVG" value="6" />
         </counts>
@@ -55,16 +55,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="1416" column="79" selection-start-line="1416" selection-start-column="79" selection-end-line="1416" selection-end-column="79" />
+            <state relative-caret-position="326">
+              <caret line="183" column="54" selection-start-line="183" selection-start-column="54" selection-end-line="183" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -90,7 +90,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>img</find>
       <find>panzoom</find>
       <find>panZoom.disablePan();</find>
       <find>.section-map .service circle</find>
@@ -117,9 +116,10 @@
       <find>.section.section-select .item:nth-child(2) .background</find>
       <find>321</find>
       <find>max-wid</find>
-      <find>max-width:</find>
       <find>height: 100px;</find>
       <find>.section.section-select .total-sale .right-block p:nth-child(2):after</find>
+      <find>max-width:</find>
+      <find>150</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,8 +132,8 @@
         <option value="$PROJECT_DIR$/files/russia.json" />
         <option value="$PROJECT_DIR$/assets/template/franchize/img/russia.svg" />
         <option value="$PROJECT_DIR$/files/scripts_7e74db5abd.min.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -260,12 +260,12 @@
       <workItem from="1571915436239" duration="6159000" />
       <workItem from="1571980266850" duration="21276000" />
       <workItem from="1572253653837" duration="5682000" />
-      <workItem from="1572324149259" duration="3862000" />
+      <workItem from="1572324149259" duration="4735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91066000" />
+    <option name="totallyTimeSpent" value="91939000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -387,17 +387,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="1416" column="79" selection-start-line="1416" selection-start-column="79" selection-end-line="1416" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/styles_e1dcaa3dec.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="4902" column="22" selection-start-line="4902" selection-start-column="22" selection-end-line="4902" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="183" column="54" selection-start-line="183" selection-start-column="54" selection-end-line="183" selection-end-column="54" />
         </state>
       </provider>
     </entry>
