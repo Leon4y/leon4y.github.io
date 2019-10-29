@@ -4900,6 +4900,28 @@ body {
     }
 }
 
+@media (max-width: 376px) {
+    .section.section-map .bigs .big > span {
+        font-size: 1rem;
+    }
+
+    .section.section-header img {
+        height: 24px;
+    }
+
+    .mbox {
+        width: 100%;
+    }
+
+    .mfp-container {
+        padding: 0!important;
+    }
+
+    .section.section-select .total-sale .right-block p:nth-child(2):after {
+        top: 40px!important;
+    }
+}
+
 @media (max-width: 426px) {
     .section.section-map h2,
     .section.section-map .bigs {
