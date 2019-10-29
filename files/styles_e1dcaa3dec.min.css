@@ -4239,6 +4239,10 @@ body {
 }
 
 @media (max-width: 767px) {
+    .section-better-conditions .btn {
+        display: block;
+    }
+
     .tf-logo img {
         height: 24px;
     }
@@ -4912,12 +4916,12 @@ body {
         font-size: 20px;
     }
 
-    .section.section-select .item:last-of-type .background,
     .section.section-select .item:nth-child(2) .background {
         height: auto;
+        padding: 30px 0 80%;
     }
 
-    .section.section-select.msk .item:last-of-type .background {
+    .section.section-select .item:last-of-type .background {
         height: auto;
     }
 
@@ -5157,7 +5161,7 @@ body {
     }
 
     .section.section-select .item-3 .background {
-        padding: 30px 0 75%;
+        padding: 30px 0 73%;
     }
 
     .section.section-select .profit {
