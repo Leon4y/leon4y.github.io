@@ -1966,7 +1966,9 @@ footer .bottom {
     vertical-align: middle;
     margin: 0 auto;
     text-align: left;
-    z-index: 1045
+    z-index: 1045;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .mfp-inline-holder .mfp-content,
@@ -4237,6 +4239,14 @@ body {
 }
 
 @media (max-width: 767px) {
+    .tf-logo img {
+        height: 24px;
+    }
+
+    .rft_ll img {
+        margin-bottom: 20px;
+    }
+
     .section.section-franchise-doings .slick-prev {
         left: 0;
     }
