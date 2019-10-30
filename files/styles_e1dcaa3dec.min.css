@@ -1103,6 +1103,39 @@ svg + svg {
     margin: auto !important;
 }
 
+.section.section-fixed-header.sticky {
+    transform: none;
+    filter: drop-shadow(0 -5px 15px #000);
+}
+
+.section.section-fixed-header .columns {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+}
+
+.section.section-fixed-header {
+    background: #fff;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+    transform: translateY(-100%);
+    transition: .5s;
+    overflow: hidden;
+}
+
+.section.section-fixed-header .columns .button {
+    width: 100%;
+}
+
+.section.section-fixed-header .columns .button .btn {
+    width: 100%;
+    font-size: 12px;
+    padding: 10px 16px;
+}
+
 .section-select {
     margin-bottom: 80px
 }
@@ -4901,6 +4934,11 @@ body {
 }
 
 @media (max-width: 376px) {
+    .section.section-select .total-sale .right-block > p,
+    .section.section-select .total-sale .left-block > p {
+        font-size: 24px!important;
+    }
+
     .section.section-map .bigs .big > span {
         font-size: 1rem;
     }
@@ -4923,6 +4961,14 @@ body {
 }
 
 @media (max-width: 426px) {
+    .section-better-conditions ol li p {
+        width: auto;
+    }
+
+    .section-better-conditions ol li span {
+        font-size: 16px;
+    }
+
     .section.section-map h2,
     .section.section-map .bigs {
         margin-bottom: 0;
